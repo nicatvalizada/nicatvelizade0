@@ -30,9 +30,9 @@
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svggh-light-mode-only)
 
-
+<h1 align="center">Support Me 🎧🎤  </h1>
 <p align="center">
-⠀⠀⠀⠀⠀<img src="img/vocaloidchibi.png">
+⠀⠀⠀⠀⠀<img src="vocaloidchibi.png">
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
