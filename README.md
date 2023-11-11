@@ -26,6 +26,15 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nicatvelizade0&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
+
+![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svggh-light-mode-only)
+
+
+<p align="center">
+⠀⠀⠀⠀⠀<img src="img/vocaloidchibi.png">
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
