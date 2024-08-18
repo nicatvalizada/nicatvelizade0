@@ -14,8 +14,9 @@
 
 
 # 📊 My Stats:
-![](https://github-readme-stats.vercel.app/api?username=nicatvelizade0&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/><img src="https://github.com/nicatvelizade0/nicatvelizade0/assets/92638150/aa394653-d868-417a-b580-15920f275613"
+<img src="https://github.com/nicatvelizade0/nicatvelizade0/assets/92638150/aa394653-d868-417a-b580-15920f275613"
  alt="Coding" width=200 height=200 align="right">
+![](https://github-readme-stats.vercel.app/api?username=nicatvelizade0&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nicatvelizade0&theme=midnight-purple&hide_border=false)<br/>
 
 
