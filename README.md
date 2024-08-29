@@ -20,12 +20,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nicatvelizade0&theme=midnight-purple&hide_border=false)<br/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nicatvelizade0&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nicatvelizade0&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
 
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svg#gh-light-mode-only)
