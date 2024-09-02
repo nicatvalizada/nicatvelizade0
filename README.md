@@ -1,5 +1,5 @@
 <!--![MasterHead]()-->
-![Header](https://github.com/nicatvelizade0/nicatvelizade0/blob/main/Banner.png)
+![Header](https://github.com/nicatvalizada/nicatvalizada/blob/main/Banner.png)
 
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F90000&title_bg=%23000000&icon=dev-dot-to.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>
@@ -16,8 +16,8 @@
 # 📊 My Stats:
 <img src="https://github.com/nicatvelizade0/nicatvelizade0/assets/92638150/aa394653-d868-417a-b580-15920f275613"
  alt="Coding" width=200 height=200 align="right">
-![](https://github-readme-stats.vercel.app/api?username=nicatvelizade0&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nicatvelizade0&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nicatvalizada&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nicatvalizada&theme=midnight-purple&hide_border=false)<br/>
 
 
 
